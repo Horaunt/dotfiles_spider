@@ -24,16 +24,12 @@ This is a Spider-Man themed Arch Linux rice with the following components:
 
 3. Install the required packages for each component:
 
-    - [Hyprland](https://hyprland.com/installation)
-    - [Thunar](https://thunar.org/installation)
-    - [Hyprpaper](https://hyprpaper.com/installation)
-    - [Rofi](https://rofi.github.io/installation)
-    - [Waybar](https://waybar.github.io/installation)
-    - [Kitty](https://sw.kovidgoyal.net/kitty/binary.html)
+   - Hyprland: [Installation instructions](https://wiki.hyprland.org/Getting-Started/Installation/)
+   - Kitty: [Installation instructions](https://sw.kovidgoyal.net/kitty/#installation)
+   - Rofi: [Installation instructions](https://github.com/davatorium/rofi#installation)
+   - Thunar: [Installation instructions](https://docs.xfce.org/xfce/thunar/start)
+   - Waybar: [Installation instructions](https://github.com/Alexays/Waybar#installation)
+   - Hyprpaper: [Installation instructions](https://github.com/hyprwm/hyprpaper)
 
 4. Configure each component according to your preferences.
 5. Enjoy your Spider-Man themed Arch Linux rice!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
